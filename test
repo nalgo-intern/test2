@@ -1,3 +1,7 @@
 aaa
 bbb
+<<<<<<< HEAD
 ggg
+=======
+ggg
+>>>>>>> test2
